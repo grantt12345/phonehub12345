@@ -1,0 +1,39 @@
+.btns{
+  
+  background-color: rgb(22, 21, 21);
+
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  padding-bottom: 10px;
+
+}
+.bts {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  border: 3px solid orange;
+  font-size: 23px;
+  width: 100%;
+
+}
+
+.bts:hover {
+  background-color: rgb(53, 49, 49);
+ 
+  transition: 0.3s;
+}
+
+.page{
+ margin-bottom: 30px;
+}
+.logohub {
+  margin-top: -1px; 
+  vertical-align: middle;
+  
+  max-width: 45px;
+max-height: 45px;
+}

@@ -1,0 +1,96 @@
+
+  .contact{
+    text-align: center;
+    background-color: rgb(22, 21, 21);
+  }
+
+  .contact h2 {
+    padding-top: 650px;
+    font-size: 80px;
+    color: orange;
+    text-align: center;
+   
+ 
+  }
+  .contact p {
+    font-size: 1.2em;
+    padding-bottom: 20px;
+    color: orange  }
+
+  input{
+    border: 1px solid black;
+    border-radius: 5%;
+  
+  }
+
+
+
+  .btnfd{
+    color: black;
+    background-color: orange;
+    border-radius: 10%;
+  }
+.btnfd:hover {
+        background-color: white;
+        
+}
+.xx{
+    padding: 5%;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+.xx:hover {
+    background-color: white;
+    color: black;
+}
+  .close-btn{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+  .feedback{
+    border: 1px solid rgb(78, 76, 76);
+    padding: 2rem;
+    position: absolute;
+    bottom: 3rem;
+    left: 1rem;
+    border-radius: 5px;
+    background: orange;
+  }
+  .feedback p {
+    font-size: 1.2em;
+    margin-bottom: 200px;
+  }
+  .close-btn-form{
+    border: 0;
+    position: absolute;
+    top:1.5rem;
+    right: 1.5rem;
+    background-color: rgb(95, 88, 88);
+    border-radius: 50%;
+  }
+  .btnx{
+  
+    background-color: rgb(22, 21, 21);
+  
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+   
+  
+  }
+
+  
+  .btn{
+    color: black;
+    background-color: orange;
+    border-radius: 10%;
+    padding-bottom: 30px;
+    font-size: 30px;
+  }
+  .fbd{
+    height:100px;
+    font-size:14pt;
+    resize: none;
+  }
